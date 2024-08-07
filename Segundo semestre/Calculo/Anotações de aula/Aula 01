@@ -1,46 +1,60 @@
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
+                    #-> Apresentação do curso#
+                - EMENTA:
+            - funções
+            - limites
+            - derivada
+            - integral
+            -
+
+
+                    #-> Teoria#
+                - Domínios
+Quando o domínio não é apresentado na definição de f devemos considerar que D(f) seja o maior subconjunto de R.
+
+
+
+                    #-> Exercícios#
+                - ex 1:
+a) C(10) = 3200
+C(10) = 10³ - 30*10² + 500*10 + 200
+      = 1000 - 3000 + 5000 + 200
+      = 3200 //
+
+b) C10 = 201
+C(9) = 9³ - 30*9² + 500*9 + 200
+     = 729 - 2430 + 4500 + 200
+     = 2999
+Custo da décima unidade = C10.
+C10 = C(10) - C(9)
+    = 3200 - 2999
+    = 201 //
+
+                - ex 2:
+a) H(2) = 60,4
+H(2) = -4,9*4 + 80
+     = 60,4 //
+
+b) H3 = 24,5
+H3 = distância percorrida no terceiro segundo.
+H(3) = -4,9*9 + 80
+     = 35,9
+H3 = H(3) - H(2)
+   = 24,5 //
+
+c) t = 4,04s
+0 = -4,9t² + 80
+t² = 80/4,9
+t ~ 4,04 //
+
+d) H = 80m
+
+                - ex 3:
+a) D(f) = xER
+b) D(f) = { xER / x != 1/2 }
+c) D(f) = { xER / x < 3 }
+-2x + 6 > 0 -> x < 3
+d) D(f) = { xER / x != 1 ^ x != -1 }
+
+                - ex 4:
+a) D(f) = { xER / x > 0 }
+b) D(f) = { xER / x > 0 ^ x < 4,04 }
