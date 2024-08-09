@@ -53,7 +53,7 @@ a) D(f) = xER
 b) D(f) = { xER / x != 1/2 }
 c) D(f) = { xER / x < 3 }
 -2x + 6 > 0 -> x < 3
-d) D(f) = { xER / x != 1 ^ x != -1 }
+d) D(f) = xER
 
                 - ex 4:
 a) D(f) = { xER / x > 0 }

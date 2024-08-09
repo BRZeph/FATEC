@@ -1,0 +1,26 @@
+                    #-> Notas#
+
+                  - A nota é composta por B1, B2, seminários e tarefas.
+                  - N1 -> B1: 11/10.
+                  - N2 -> B2: 22/11.
+                  - N3 -> Seminários.
+                  - N4 -> Tarefas.
+                  - Média final = 0,35*B1 + 0,35*B2 + N3*0,2 + N4*0,1.
+                  - Prova sub substitui ou a B1 ou a B2
+
+
+
+                    #-> Seminários#
+
+                  - Existem muitos tipos de softwares que ajudam com a análise.
+                  - O Plotze vai passar uma lista e cada equipe vai escolher 1 para fazer um seminário sobre.
+                  - Exemplo: Trelo, slack, github, clouds etc.
+                  - Data: +/- segunda quinzena de outubro, primeira quinzena de novembro.
+                  - O trabalho pode ser um hands-on com a equipe liderando a sala para colocar a mão na massa.
+
+
+
+                    #-> Datas de provas#
+
+                  - B1: 11/10 (data variável).
+                  - B2: 22/11 (data fixa).
