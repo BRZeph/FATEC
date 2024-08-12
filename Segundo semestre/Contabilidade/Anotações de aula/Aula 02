@@ -1,0 +1,86 @@
+                    #-> Classificação jurídica de empresas#
+                -> Pessoa física: Indivíduo perante o estado
+                -> Pessoa jurídica: associação de duas ou mais pessoas numa entidade, com direitos e deveres próprios
+            perante o estágio.
+
+
+
+                    #-> Características de empresas#
+                -> Firma individual: Dirigida por uma só pessoa e passa por poucas regulamentações. A duração da empresa
+            está ligado à duração de vida do proprietário.
+                -> Sociedade por cotas: tem mais de um sócio que participam dos lucros e prejuízos, divididos em
+            proporções entre eles. A responsabilidade é divida entre eles.
+                -> Sociedade anônima: Chamada de S/A, nesta empresa o capital é dividido em ações. A S/A pode ser de
+            capital aberto ou fechado.
+
+
+
+                    #-> Classificação porte#
+
+                    Porte                 Empregados                        Receita Bruta Anual
+            MEI                 *   Sócio e um empregado            *           R$81.000
+                                *                                   *
+            Microempresa ME     * Comercío até 9, industria até 19  *     R$360.000 ~ R$4.800.000
+                                *                                   *
+            Empresa de pequeno  *   Comércío e serv. 10 ~ 49        *       Até R$4.800.000
+            porte - EPP         *   Indústria 20 ~ 99               *
+                                *                                   *
+            Empresa de médio    *   Comércio e serv. 50 ~ 99        *       A partir de R$4.800.000
+            porte - MDE         *   Indústria 190 ~ 499             *
+                                *                                   *
+            Empresa de grande   *   Comercío e serv. + de 99        *       A partir de R$4.800.000
+            porte - GE          *   Indústria + de 499              *
+
+
+
+                    #-> Regime tributário#
+                -> MEI: recolhe um único tributo de valor fixo: R$71,60 até R$76,60
+                -> Simples nacional: pagam tributo em uma única guia - faturamento até R$4.800.000 ano
+                -> Lucro presumido: Lei define margem de lucro para cálculo de tributos. Depende da operação da empresa.
+            Faturamento R$4.800.000 até R$78.000.000.
+                -> Lucro real: Calcula o lucro efetivo da empresa para recolher tributos. Faturamento acima de R$7.800.000.
+
+
+
+                    #-> Anotações#
+                -> Tudo acima é anotação da lousa, aqui vou anotar adicionais.
+
+                ->       #Sobre classificação jurídica#
+            -> Toda organização empresarial é pública, para saber dados da empresa ver JUCESP (anotei isso na aula 01).
+            -> Pessoa física: CPF e RG.
+            -> Pessoa jurídica: IE e CNPJ.
+
+                ->       #Sobre características de empresas#
+            -> Firma individual dura até a morte do dono, a partir da morte não há mais empresa.
+            -> Sociedade por cotas: LTDA (limitada).
+            -> Sobre cotas: cada sócio tem uma quantidade de cotas e todas as cotas tem um valor único, se a empresa
+        cresce ou diminui, o valor das cotas se altera também, fazendo com que os sócios percam ou ganhem dinheiro.
+            -> Dinheiro de PF com dinheiro de empresa não se mistura, isso é lei.
+            -> EIRELI: empresa individual com responsabilidade empresarial limitada.
+            -> firmas individuais tem a opção de abrir como EIRELI que tem responsabilidade limitada.
+
+                ->      #Sobre classificação de porte#
+            -> Faturamento é o valor da venda.
+            -> Ao desenvolver um ERP para uma empresa, é necessário saber o quanto compra/vende para saber a classificação
+        de porte e, portanto, saber quanto de importo (regime tributário) deve ser pago.
+            -> A única obrigação do MEI é imposto de renda e pagar o valor fixo do regime tributário.
+            -> É obrigatório ter a classificação MEI, ME, EPP etc no nome da empresa.
+            -> A classificação de porte é com base na quantidade de empregados e de faturamento.
+            -> A quantidade de pessoas envolve o sindicato para ver o quanto deve ser pago.
+            -> A quantidade de faturamento envolve a receita federal para ver o quanto deve ser pago.
+            -> Se uma empresa tem classificação de porte EPP por conta da quantidade de empregados mas tem faturamento
+        superior ao faturamento de EPP, a classificação não muda, o que muda é apenas o regime tributário.
+
+                ->      #Sobre regime tributário#
+            -> O problema normalmente está aqui.
+            -> MEI não precisa de contador, mas tem que prestar atenção no limite de receita.
+            -> Um MEI com faturamento a partir de 81.000 anual tem que pagar simples nacional.
+            -> Simples nacional é o segundo melhor tipo de tributo em 80% dos casos (só perde para MEI).
+            -> Simples nacional tem que pagar um único tributo, não tem que se preocupar com as coisas de lucro presumido.
+            -> Em 20% dos casos é melhor para a empresa sair de simples nacional para ser lucro presumido ou lucro real,
+        para saber se vale a pena mesmo é necessário uma análise contábil (igual ao que aconteceu na mercantil).
+            -> Para o regime tributário importa o valor da venda, não do lucro.
+            -> Lucro presumido: assume-se que a empresa tem lucro de 20% sobre as vendas e o imposto é calculado sobre
+        este lucro presumido, não sobre o faturamento (venda), alguns tipos de empresas não podem ser lucro presumido e
+        empresas nesta classificação pagam QUASE todos os impostos.
+            -> Lucro real: "paga tudo e 'um pouco mais' " - prof.
