@@ -1,0 +1,27 @@
+%d int
+%f float
+%c char
+
+
+printf( "%d X %d = %d", 2, 3, 2*3 )
+o primeiro &d puxa o 2
+o segundo &d puxa o 3
+o terceiro &d puxa o (2*3)
+é assim que se dá cout em C
+
+scanf foi feito para receber endereço de memória, por isso tem os &
+
+stdoi
+stdlib
+principais funções do c ^
+
+construir 4 tabuadas em um único print (a primeira sem usar scanf)
+sem loop
+
+2 x 1 = 2 | 3 x 1 = 3
+2 x 2 = 4 | 3 x 2 = 6
+---------------------
+4 x 1 = 4 | 5 x 1 = 5
+4 x 2 = 8 | 5 x 2 = 10
+
+usar %2d reserva dois espaços e joga o espaço para a direita
