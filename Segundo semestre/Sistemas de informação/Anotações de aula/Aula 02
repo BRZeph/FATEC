@@ -1,0 +1,83 @@
+                #-> Tipos de vírus#
+
+            ->Objetivo de vírus:
+        -> "Crítica" à um sistema.
+            ->Worm: se espalha o máximo possível sem causar grandes danos.
+        -> "Se for pegar um vírus, que seja esse".
+        -> Apaga dados, captura informações e altera o funcionamento normal da máquina.
+
+            ->Trojan/cavalo de troia:
+        -> Permite acesso ao computador infectado.
+        -> Permite o hacker enviar comandos ao computador (inclusive é possível corromper o kernel).
+        -> Instalado quando o usuário "baixa" algum arquivo na internet e executa.
+        -> Atualmente o trojan é mais utilizado para roubar senha de banco.
+
+            ->Spyware:
+        -> Anti vírus detecta isso.
+        -> Utilizar para espionar a atividade do computador e capturar informação.
+        -> Tecnicamente o computador/celular também faz isso.
+        -> Geralmente vem embutido em programas freeware ou shareware.
+
+            ->Keylogger:
+        -> Anti vírus detecta isso.
+        -> Não é vírus tecnicamente falando porque não altera dados ou estraga dados no presente e no futuro.
+        -> Apenas captura dados.
+
+            ->Firewall:
+        -> Firewall permite entrada de dados apenas de locais conhecidos.
+        -> Se o site X é conhecido por dar problemas, o firewall já bloqueia.
+
+
+
+
+
+                #->Sistemas de informação#
+
+            -> Sistemas de informação (exemplo ERP).
+            -> Analógico: sistema de bater ponto.
+            ->O front tem que ser "bonito" porque:
+        -> Não confundir o usuário.
+        -> Se for "feio" o usuário não vai querer usar direito (má vontade).
+
+            -> Sistema: conjunto de partes que interagem entre si, integrando-se para atingir objetivos ou resultados.
+            ->Sistema de informação é composto por:
+        -> Objetivo: tema, alvo etc.
+        -> Ambiente do sistema: ambiente físico (espaço) e lógico (rodar apenas no windows? etc).
+        -> Recurso do sistema: meios necessários para que o sistema funcione (integração com email etc).
+        -> Componentes humanos: pessoal responsável pelo acionamento e utilização do recurso (treinar quem vai usar etc).
+        -> Função do sistema: atividade que o sistema se propõe a fazer.
+        -> Procedimentos do sistema: atividade que antecedem e sucedem a função principal do sistema.
+        -> Gestão do sistema: administração e análise do produto, controle de qualidade etc.
+
+            ->O gestor deve sempre ter clara a visão da abordagem da tenologia da informação, além de:
+        -> Pessoas e recursos.
+        -> Processos ou atividades e projetos.
+        -> Recursos tecnológicos, financeiros, materiais etc.
+
+            -> Dado: Qualquer elemento identificado em sua forma bruta, sem contexto.
+            -> Informação: Dado com o contexto.
+            -> Exemplo: "15" sem contexto é um dado, mas não informação.
+            -> Exemplo2: quantidade de produção (dado) e capacidade de produção (informação).
+            -> Informação é dado após a interpretação.
+            ->Características de sistemas de informação aplicado em empresas:
+        -> Vários subsistemas internos e externos.
+        -> Grande volume de dados e informação.
+        -> Complexidade de processamento.
+        -> Muitos usuários/clientes.
+        -> Contexto abrangente e dinâmico.
+        -> Interligação de diversas tecnologias.
+        -> Suporte e tomada de decisão.
+        -> Auxílio na qualidade, produtividade e competitividade organizacional.
+
+            ->Benefícios esperados:
+        -> Suporte e tomada de decisão.
+        -> Valor agregado.
+        -> Melhor serviço e vantagens competitivas.
+        -> Produto de melhor qualidade.
+        -> Oportunidade de negócios e aumento da rentabilidade.
+        -> Maior segurança nas informações, menos erros e maior precisão.
+        -> Aperfeiçoamento nos sistemas, eficiência, eficácia e produtividade.
+        -> Carga de trabalho reduzida.
+        -> Redução de custos e desperdícios.
+        -> Controle de operações.
+        -> etc.
