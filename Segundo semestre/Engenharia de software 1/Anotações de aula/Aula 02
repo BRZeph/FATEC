@@ -1,0 +1,30 @@
+                    #-> Atributos de um bom software#
+
+                -> Análogo à escolher tênis baseando-se nos atributos do mesmo.
+                ->Exemplos de bons atributos de um bom software:
+            -> Fácil de utilizar.
+            -> Rápido.
+            -> Seguro.
+            -> Funcional.
+            -> Bonito.
+            -> Suporte.
+            -> Acessível.
+            -> etc.
+
+                -> Todo usuário vai definir os bons atributos de um software, caso não agrade, deu ruim.
+                -> Engenharia de software se preocupa com todos os aspectos da produção de software.
+                ->Atividades de um bom software:
+            -> Especificaçôes: onde os clientes e desenvolvedores definem o que deve ser desenvolvido considerando as
+            restrições. Aqui entra em cena o analista, este atua principalmente aqui.
+            -> Desenvolvimento: de fato fazer o software com base nas especificações.
+            -> Validação: verificar se o software atende as necessidades do cliente.
+            -> Evolução: mudanças de software, implementação de melhorias e mudanças (correção de bugs etc).
+
+                ->Desafios de um bom software:
+            -> Diversidade: tornar software específico em mais geral ao abrangir vários tipos de browsers etc.
+            -> Diminuição do tempo de entrega considerando a diversidade.
+            -> Criar confiabilidade.
+
+                ->Custos da engenharia de software.
+            -> Atrelado à toda a produção do software inclusive: produção, testes etc.
+            ->
