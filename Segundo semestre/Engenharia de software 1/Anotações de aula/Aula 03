@@ -1,0 +1,70 @@
+                    #-> Tipos de aplicações#
+                ->Stand-alone.
+            -> Não depende de outra aplicação para funcionar.
+            -> Não precisa de internet.
+
+                ->Interativo.
+            -> Interações com o usuário.
+            -> Ex: compras onlines.
+
+                ->Embarcados.
+            -> Possui hardware específico para o software.
+            -> Ex: alexa.
+
+                ->Entretenimento.
+            -> Aplicações para diversão.
+            -> Ex: jogos.
+
+                ->Processamento em lote.
+            -> Se preocupa com processar altos volumes de dados.
+
+                ->Modelagem e simulação.
+            -> Criar modelos do mundo real.
+            -> Ex: simulador de vôo.
+
+                ->Coletas de dados.
+            -> Ex: software de rastreamento de vacas no pasto (treco amarelo preso na orelha).
+
+                ->ERP's.
+            -> Sistemas compostos de vários softwares diferentes (um único sistema para RH, contabilidade etc).
+
+                ->Observações.
+            -> Aplicações no geral se encaixam em mais de um tipo.
+
+
+
+
+
+                    #-> Fundamentos da engenharia de software.#
+                -> Software é desenvolvido por meio de um processo *gerenciado*.
+                -> Softwares tem que ter confiabilidade e responsabilidade.
+                -> Softwares tem especificações do que deve fazer.
+                -> Quando for possível, usar um software que já existe para elimir o retrabalho de fazer o software do zero.
+                -> Reuso de software ^.
+                ->Ética da engenharia de software.
+            -> Responsabilidade profissional (ex: referente à dados).
+            -> Propriedade intelectual (ex: estagiário escreve 80% do código, o código ainda pertence à empresa).
+            -> Agir de acordo com interesse público.
+            -> Garantir que os produtos tenham qualidade.
+
+                ->Dilemas éticos.
+            -> Desacordo, em princípio, com as políticas da gerência.
+            ->
+
+
+
+
+                #-> Estudos de caso.#
+            ->Caso 01 - Bbomba de insulina pessoal.
+        -> Sistema embutido em uma bomba de insulina para controlar a glicose no sangue.
+        -> Sistema crítico de segurança que facilmente leva à morte se ocorrerem erros.
+        -> A engenharia de software fornece a arquitetura do hardware (tipo o role que fiz com o Henrique la)
+
+            ->Caso 02 - Sistema de informação de pacientes (saúde mental).
+        -> Durante o atendimento, o médico tem que ter acesso ao banco de dados com as informações dos pacientes em mãos.
+        -> Se trata de um gigantesco banco de dados.
+        -> A engenharia de software entra para fornecer a arquitetura e estrutura de como administrar o banco de dados.
+
+            ->Caso 03 - Estação meteorológica no deserto.
+        -> Analogamente ao caso 1 e 2, o caso 3 é muito complexo e portanto exige uma arquitetura para tal.
+        -> A engenharia de software serve para fornecer a arquitetura e estrutura do software e do hardware.
