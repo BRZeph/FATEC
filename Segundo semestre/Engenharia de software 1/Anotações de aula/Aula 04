@@ -1,0 +1,64 @@
+                    #-> Processos para desenvolvimento de software#
+                -> Um erro de conversão de float em int (que não era mais necessário) explodiu o foguete Ariane 5.
+                -> Processo: etapas associadas ao desenvolvimento, são ágeis ou tradicionais.
+                ->Existem vários procesos de desenvolvimento de software, mas todos envolvem:
+            ->Especificação: definição do que o sistema deve fazer.
+        -> análise de viabilidade. Será que a empresa tem dinheiro suficiente para desenvolver?
+
+            ->Projeto e implementação: definição da organização e implementação do sistema.
+        -> Projeto: estruturação/arquitetura do software, como os componentes se relacionam etc.
+        -> Projeto: interfaces.
+        -> Projeto: componentes e banco de dados.
+
+            ->Validação: checagem de que o sistema faz é o que o cliente deseja.
+        -> Verificar se o sistema está em conformes com as especificações do cliente.
+        -> teste de componente -> teste de sistema -> teste de aceitação.
+        -> teste de componente -> teste de aceitação.
+        -> teste de aceitação -> teste de componente.
+        -> teste de componente: testar parte específica do sistema, não é global.
+        -> teste de sistema: mais global.
+
+            ->Evolução: evolução em resposta a mudanças das necessidades do cliente.
+
+
+                ->Modelo em cascata.
+            -> Sequência linear e progressiva de etapas baseado em produção da fábrica.
+            -> Não tem como voltar etapas antes de terminar tudo.
+            ->Etapas.
+        -> Definição de requisitos.
+        -> Projetode sistemas de software.
+        -> Implementação e teste de sistema.
+        -> Operação e manutenção.
+        -> Volta para a etapa que dar problema.
+        -> Só pode passar para a próxima etapa quando terminar a atual.
+            ->Desvantanges.
+        -> Modelo muito engeçado, não é atual.
+        -> Depende em alguns contextos mas não outros.
+
+
+                ->Modelo evolucionário.
+            -> O projeto evolui durante a produção, logo é necessário evoluir o processo junto.
+            -> Criado em base no cascata visando melhorar os problemas.
+            -> Evolui ao longo do tempo.
+            -> Existem tipos do modelo evolucionário.
+        ->Prototipagem .
+    -> Neste modelo, protótipos rápidos e simplificados são desenvolvidos inicialmente para permitir que os stakeholders
+    visualizem e interajam com o sistema.
+    -> Com base no feedback recebido, o sistema é refinado e melhorado através de múltiplas iterações.
+
+        ->Incremental (entregas parciais) (versionamento) (ver imagem).
+    -> Abordagem que prioriza a entrega de funcionalidades em etapas ou incrementos sucessivos ao longo do tempo.
+    -> Ao invés de esperar até que o sistema esteja completamente desenvolvido para fazer uma única entrega, o projeto é
+    dividido em partes menores e entregas parciais são feitas de forma iterativa.
+    -> A especificação, desenvolvimento e validação são executados concorrentemente para gerar um retorno rápido.
+    ->Vantagens.
+-> O custo para acomodar mudanças nos requisitos do cliente é reduzido.
+-> A quantidade de análise e documentação é bem menor do que no modelo cascata.
+-> É mais fácil obter feedback do cliente sobre o desenvolvimento que tem sido feito.
+-> Possibilidade de mais rapidez na entrega e implantação de software útil para o cliente.
+    ->Desvantagens.
+-> O processo não é visível: como o sistema é desenvolvido rapidamente, não há tempo de documentar as versões;
+-> Os sistemas são mal estruturados: mudanças constantes podem corromper a estrutura do software;
+-> Requer ferramentas e técnicas especiais: que nem sempre estão disponíveis ou são aplicáveis ao caso.
+
+        -> Espiral (ver imagem).
