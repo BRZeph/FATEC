@@ -1,0 +1,33 @@
+                    #-> Patrimônio (bens, direitos e obrigações)#
+                ->Ativo (aplicação de recurso).
+            ->Bens.
+        -> Tangíveis: veículos, estoque, prédio, instalações etc.
+        -> Intangíveis: direito autoral, marcas e patentes, software etc.
+            -> Direitos: duplicatas a receber (boleto), impostos a restituir etc.
+
+                ->Passivo (origem de recurso).
+            -> Obrigações: contas a pagar, salários a pagar, impostos a recolher etc.
+
+                ->Pgatrimônio liquido (origem de recurso): capital social, lucro e prejuízo, reserva de lucro etc.
+                -> Mutação é a variação de patrimônio, entrada/saída em passivo e ativo são mutações.
+                -> Origem próprio: (meu investimento) (parte de baixo do passivos).
+                -> Origem terceiros: (investimentos externos) (parte de cima do passivos).
+
+                ATIVO       |       PASSIVO
+        Banco --> 20.000,00 | fornecedor --> 12.000,00 (fiquei devendo para o fornecedor) (origem terceiros) (direitos)
+      estoque --> 30.000,00 | Capital --> 100.000,00 (origem próprio) (bens)
+      veículo --> 40.000,00 |
+       móveis --> 10.000,00 |
+  computadores --> 8.000,00 |
+   periféricos --> 4.000,00 |
+                            | Total --> 112.000,00.
+
+PL = Bem + direito - passivo exigível
+                ATIVO       |       PASSIVO
+                            |   passivos
+                            |
+                ativos      |
+                            |   patrimônio liquido
+                            |
+                            |
+                            | Total --> 112.000,00
